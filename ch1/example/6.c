@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /* copy input to output; 2nd version  */
 
-int main()
+main()
 {
     int c;
     while ((c = getchar()) != EOF)

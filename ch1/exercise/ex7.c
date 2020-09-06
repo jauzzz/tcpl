@@ -3,8 +3,6 @@
 
 #include <stdio.h>
 
-#include <stdio.h>
-
 int main()
 {
     printf("EOF's value is %d\n", EOF);

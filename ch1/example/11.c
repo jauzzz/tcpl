@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int power(int m, int n);
-/* test power function */
 
-int main()
+/* test power function */
+main()
 {
     int i;
     for (i = 0; i < 10; ++i)
@@ -11,7 +11,7 @@ int main()
     return 0;
 }
 
-/* power:  raise base to n-th power; n >= 0 */
+/* power: raise base to n-th power; n >= 0 */
 int power(int base, int n)
 {
     int i, p;

@@ -6,7 +6,7 @@
 
 int main()
 {
-    float fahr;
+    int fahr;
 
     for (fahr = 300; fahr >= 0; fahr = fahr - 20)
     {
